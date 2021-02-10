@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usuarios_planta", "Usuarios_planta\Usuarios_planta.csproj", "{0C193761-EA0E-45A7-9BE9-5B78386C7B68}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Colpensiones", "Colpensiones\Colpensiones.vdproj", "{E3CF3277-C017-4245-95A1-A47A027CC22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C193761-EA0E-45A7-9BE9-5B78386C7B68}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{0C193761-EA0E-45A7-9BE9-5B78386C7B68}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{0C193761-EA0E-45A7-9BE9-5B78386C7B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C193761-EA0E-45A7-9BE9-5B78386C7B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CF3277-C017-4245-95A1-A47A027CC22D}.Debug|Any CPU.ActiveCfg = Debug
+		{E3CF3277-C017-4245-95A1-A47A027CC22D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD119582-24CA-4260-BD7D-AB686860631C}
+	EndGlobalSection
+EndGlobal
